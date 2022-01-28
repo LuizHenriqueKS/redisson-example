@@ -1,0 +1,10 @@
+spring:
+    main:
+        banner-mode: "off"
+
+logging:
+    level:
+        com:
+            zul:
+                redisson:
+                    RedissonExampleApplication: TRACE
